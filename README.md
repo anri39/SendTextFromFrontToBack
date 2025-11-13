@@ -3,4 +3,4 @@
 **To get started, Start the backend server using node index.js.**
 **To start the development frontend server use npm run dev.**
 
-**Full tech stack: HTML , CSS , JS , React, Typescript**
+**Full tech stack: HTML , CSS , JS , React, Typescript, Node.js, Express**
