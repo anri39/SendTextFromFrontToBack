@@ -1,0 +1,36 @@
+.appcontainer {
+  display: flex;
+  width: 100%;
+  border: 1px solid orange;
+  height: 100vh;
+  gap: 20px;
+}
+
+.inputcontainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+}
+
+.outputcontainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+}
+
+.input {
+  width: 200px;
+  height: 200px;
+}
+
+.btn {
+  width: 100px;
+  height: 30px;
+  border: 1px solid grey;
+  border-radius: 7px;
+  cursor: pointer;
+}
